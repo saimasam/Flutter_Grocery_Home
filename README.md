@@ -7,10 +7,8 @@ through this application user can order groceries online and it will be delivere
 <img width="207" alt="Screenshot 2023-09-14 174922" src="https://github.com/saimasam/Flutter_Online_Grocery_Application/assets/144828286/3d300b00-295e-4171-8237-948a49a0801d">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="212" alt="Screenshot 2023-09-14 205623" src="https://github.com/saimasam/Flutter_Online_Grocery_Application/assets/144828286/d49a2587-3e8b-41d2-9ce5-2a9474c4b2b6">
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="214" alt="Screenshot 2023-09-14 180223" src="https://github.com/saimasam/Flutter_Online_Grocery_Application/assets/144828286/21136216-169b-469c-a67d-e695fdd237e1">
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="215" alt="Screenshot 2023-09-14 180237" src="https://github.com/saimasam/Flutter_Online_Grocery_Application/assets/144828286/9617faeb-d49c-42ad-8393-82c2f9a9bcd1">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
